@@ -1,0 +1,15 @@
+# requirements.txt
+
+-e .
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras
+requests
+beautifulsoup4
+flask
+
+# Additional libraries for data visualization and web scraping
